@@ -20,6 +20,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+div {
+  box-sizing: border-box;
+}
+
 /* Write all remaining styles here */
 
 #zetsy {

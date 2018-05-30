@@ -18,7 +18,6 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
-	display: block;
 }
 
 /* Write all remaining styles here */
@@ -57,5 +56,4 @@ a img {
 
 #footer {
   text-align: right;
-  display: block;
 }

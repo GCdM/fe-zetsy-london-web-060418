@@ -31,8 +31,7 @@ body {
 }
 
 #necklace {
-  border: 5px solid rgb(152,173,166);
-  text-decoration: overline;
+  border: 5px solid rgb(152,173,166)
 }
 
 #about, #press {
